@@ -1,0 +1,15 @@
+.container{
+    background-color: aquamarine;
+    padding: 20px;
+    margin: 10px;
+    font-size: 30px;
+    border: 5px solid grey;
+}
+.git{
+    font-size: 30px;
+    margin: 10px;
+}
+.github{
+    font-size: 30px;
+    margin: 10px;
+}
